@@ -29,7 +29,7 @@ To run this project locally, you only need a web browser.
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/circular-animation.git
+    git clone https://github.com/bhagwan06/circular-animation.git
     ```
 2. Navigate to the project folder:
     ```bash
