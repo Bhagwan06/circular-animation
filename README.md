@@ -10,7 +10,7 @@ This project creates a simple circular animation using HTML and CSS. Three small
 - [Usage](#usage)
 
 ## Demo
-![Circular Animation Demo](demo.gif)
+[https://bhagwan06.github.io/circular-animation/]
 
 ## Features
 - Responsive layout that centers the animation on the page.
